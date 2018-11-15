@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/DXWebApplication1/Controllers/HomeController.vb))
+* [Model.cs](./CS/Models/Model.cs) (VB: [Model.vb](./VB/DXWebApplication1/Models/Model.vb))
+* [Index.cshtml](./CS/Views/Home/Index.cshtml)
+* [TypedListDataBindingPartial.cshtml](./CS/Views/Home/TypedListDataBindingPartial.cshtml)
+<!-- default file list end -->
 # How to export GridView data to different text formats
 
 
