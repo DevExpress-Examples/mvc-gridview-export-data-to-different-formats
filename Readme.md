@@ -7,6 +7,9 @@
 * [TypedListDataBindingPartial.cshtml](./CS/Views/Home/TypedListDataBindingPartial.cshtml)
 <!-- default file list end -->
 # How to export GridView data to different text formats
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3898)**
+<!-- run online end -->
 
 
 <p>This example is standalone implementation of the online <a href="http://demos.devexpress.com/MVC/GridView/Export"><u>Grid View - Exporting Data</u></a> demo.<br />
