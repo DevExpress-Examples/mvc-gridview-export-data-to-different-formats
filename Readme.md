@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to export GridView data to different text formats
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3898)**
+**[[Run Online]](https://codecentral.devexpress.com/e3898/)**
 <!-- run online end -->
 
 
