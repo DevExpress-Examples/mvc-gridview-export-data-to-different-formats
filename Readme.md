@@ -9,14 +9,14 @@
 **[[Run Online]](https://codecentral.devexpress.com/e3898/)**
 <!-- run online end -->
 
-This example illustrates how to use the [ExportTo*](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.GridViewExtension._methods?p=netframework) methods to export the GridView 's content to different formats.
+This example illustrates how to use the [ExportTo*](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.GridViewExtension._methods?p=netframework) methods to export the GridView 's content in different formats.
 
 ![GridView export](export-buttons.png)
 
-Note the following key points when export [GridView extension](https://docs.devexpress.com/AspNetMvc/8966/components/grid-view) content:
+Note the following key points when you export [GridView extension](https://docs.devexpress.com/AspNetMvc/8966/components/grid-view) content:
 
 - Define the GridView extension in a separate PartialView ([TypedListDataBindingPartial.cshtml](./CS/Views/Home/TypedListDataBindingPartial.cshtml)) without any additional tags.
-- Wrap the GridView's PartialView in a form to apply the client layout state (sorting, filtering, etc.).
+- Wrap the GridView's PartialView in a form to apply the client's layout state (sorting, filtering, etc.).
     ```
     @using(Html.BeginForm("ExportTo", "Home")) {
         // ...
