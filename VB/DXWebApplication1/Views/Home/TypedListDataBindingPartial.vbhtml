@@ -1,1 +1,0 @@
-﻿@Html.DevExpress().GridView(DXWebApplication1.GridViewHelper.ExportGridViewSettings).Bind(Model).GetHtml()
