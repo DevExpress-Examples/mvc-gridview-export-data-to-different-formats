@@ -30,5 +30,5 @@ Note the following key points when you export [GridView extension](https://docs.
 
 ## Files to Review
 
-* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/DXWebApplication1/Controllers/HomeController.vb))
-* [Index.cshtml](./CS/Views/Home/Index.cshtml) (VB: [Index.vbhtml](./VB/DXWebApplication1/Views/Home/Index.vbhtml))
+* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
+* [Index.cshtml](./CS/Views/Home/Index.cshtml) (VB: [Index.vbhtml](./VB/Views/Home/Index.vbhtml))
